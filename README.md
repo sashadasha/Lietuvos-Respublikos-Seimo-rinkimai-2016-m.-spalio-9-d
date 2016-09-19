@@ -2,7 +2,14 @@
 
 | Rodiklis        |
 | ------------- |
-|**Kandidato vardas, pavardė**|
+|**ID**|
+|**VARDAS PAVARDĖ**|
+|**Sąrašas**|
+|**Numeris sąraše**|
+|**Porinkiminis numeris**|
+|**Vienmandatė apygarda**|
+|**Iškėlė vienmandatėje**|
+|**Turas**|
 |**Privalomas registruoti turtas (Eur)**|
 |**Vertybiniai popieriai, meno kūriniai, juvelyriniai dirbiniai (Eur)**|
 |**Piniginės lėšos (Eur)**|
