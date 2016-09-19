@@ -13,8 +13,6 @@
 |**Piniginės lėšos**|
 |**Suteiktos paskolos**|
 |**Gautos paskolos**|
-|**Gautų pajamų suma
-(GPM305 formos 12, 13, 14 ir GPM305V formos V14 laukelių suma)**|
-|Išskaičiuota (sumokėta) pajamų mokesčio suma
-(GPM305 formos 27, 28, 30 laukelių suma)|
+|**Gautų pajamų suma (GPM305 formos 12, 13, 14 ir GPM305V formos V14 laukelių suma)**|
+|**Išskaičiuota (sumokėta) pajamų mokesčio suma (GPM305 formos 27, 28, 30 laukelių suma)**|
 
