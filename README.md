@@ -1,9 +1,5 @@
 # Kandidatų į LR Seimą pateikti turto ir pajamų duomenys
 
-*merge.txt*
-- METINĖS GYVENTOJO(ŠEIMOS) TURTO DEKLARACIJOS PAGRINDINIŲ DUOMENŲ IŠRAŠAS
-- METINĖS PAJAMŲ MOKESČIO DEKLARACIJOS GPM305 FORMOS PAGRINDINIŲ DUOMENŲ IŠRAŠAS
-
 # Aprašymas
 
 | Rodiklis        |
