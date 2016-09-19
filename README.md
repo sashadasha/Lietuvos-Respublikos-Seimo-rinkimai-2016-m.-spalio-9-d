@@ -18,3 +18,6 @@
 |**Gautų pajamų suma (GPM305 formos 12, 13, 14 ir GPM305V formos V14 laukelių suma) (Eur)**|
 |**Išskaičiuota (sumokėta) pajamų mokesčio suma (GPM305 formos 27, 28, 30 laukelių suma) (Eur)**|
 |**Nuoroda į VRK psl.**|
+
+# Šaltinis
+http://www.vrk.lt/2016-seimo/kandidatai?srcUrl=rorpA500/lrsKandidataiPilnasSarasasHtml%3FrnkId%3D426
