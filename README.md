@@ -1,7 +1,5 @@
 # Kandidatų į LR Seimą pateikti turto ir pajamų duomenys
 
-# Aprašymas
-
 | Rodiklis        |
 | ------------- |
 |**Privalomas registruoti turtas (Eur)**|
