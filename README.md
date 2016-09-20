@@ -1,6 +1,6 @@
 # Kandidatų į LR Seimą pateikti turto ir pajamų duomenys
 
-| Rodiklis        |
+| Duomenų failo rodikliai        |
 | ------------- |
 |**ID**|
 |**VARDAS PAVARDĖ**|
